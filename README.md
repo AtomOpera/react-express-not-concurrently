@@ -4,15 +4,19 @@
 
 ## Things to run before
 yarn create vite (to create the react client folder / part) in client folder
+
 yarn
+
 npx express-generator api
 
 yarn add cors
 
 ## Start the thing!
 cd api
+
 yarn dev
 
 cd client
+
 yarn start
 
